@@ -1,0 +1,20 @@
+Team Fortress 2 hud, that is based of famous ahud.
+This forke adds modern features!
+
+[b]Complete sreenshot album[/b]: https://imgur.com/a/ahud-ccc-zPrf6Iw
+[b]ahud-cc wiki[/b]: https://github.com/jakadak/ahud-cc/wiki
+
+Github link: https://github.com/jakadak/ahud-cc
+HUDS: 
+Config huds: 
+Report bug [url=github.com/jakadak/ahud-cc/issues/new/choose]here[/url]
+
+[list]
+    [*]Matchmaking and MvM support
+    [*]HUD Customizations Menu (Scoreboard, Ubercharge meter, Streamer mode...)
+    [*]Community servers features (Play categories, community servers)
+    [*]Live improving features (Binds menu, [url=github.com/jakadak/ahud-cc/wiki]Wiki[/url] for adding Crosshair & Hitmarker)
+    [*]Live improving mods (No-smoke exposions, Consistent kill icons, Closed captions)
+    [*]16:9, 16:10, and 4:3 support
+[/list]
+
