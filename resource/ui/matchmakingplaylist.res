@@ -190,7 +190,7 @@
 
 		"defaultFgColor_override"	"ahudWhite"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 		
 		if_event
 		{
@@ -337,7 +337,7 @@
 	//
 	//	"defaultFgColor_override"	"ahudWhite"
 	//	"armedFgColor_override"		"ahudWhite"
-	//	"depressedFgColor_override" "75 125 255 255"
+	//	"depressedFgColor_override" "ahudYellow"
 	//	
 	//	if_event
 	//	{
@@ -369,7 +369,7 @@
 
 		"defaultFgColor_override"	"ahudWhite"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 		
 		if_event
 		{

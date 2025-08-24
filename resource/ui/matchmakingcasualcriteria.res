@@ -20,7 +20,7 @@
 		{
 			"ControlName"	"CTFLocalPlayerBadgePanel"
 			"fieldName"		"RankImage"
-			"xpos"			"4"
+			"xpos"			"35"
 			"ypos"			"-8"
 			"zpos"			"110"
 			"wide"			"o1"
@@ -41,7 +41,7 @@
 			"ypos"			"-15"
 			"zpos"			"100"
 			"wide"			"330"
-			"tall"			"92"
+			"tall"			"85"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"

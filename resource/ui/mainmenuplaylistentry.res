@@ -113,7 +113,7 @@
 
 		"defaultFgColor_override"	"ahudWhite"
 		"armedFgColor_override"		"ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 	}
 
 	"MatchmakingBanPanel"

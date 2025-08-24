@@ -57,7 +57,7 @@
 				
 				"defaultFgColor_override" "ahudWhite"
 				"armedFgColor_override"   "169 123 53 255"
-				"depressedFgColor_override" "75 125 255 255"
+				"depressedFgColor_override" "ahudYellow"
 				
 				"image_drawcolor"	"0 0 0 175"
 				"image_armedcolor"	"0 0 0 255"
@@ -253,10 +253,16 @@
 	
 	"DashboardDimmer" //Sidepanel Background
 	{
+		"ControlName"		"CDimmerButton"
 		"wide"			"9999"
 		"tall"			"9999"
 		"xpos"			"-2000"
 		"ypos"			"-2000"
+		
+		"paintbackground"		"1"
+		"button_activation_type"	"1"
+		"defaultBgColor_override"	"0 0 0 150"
+		"armedBgColor_override"		"0 0 0 150"
 
 	}
 	
@@ -1694,7 +1700,7 @@
 		
 		"defaultFgColor_override" "ahudWhite"
 		"armedFgColor_override"   "ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 
 	}
 	"GeneralStoreButton"
@@ -1725,7 +1731,7 @@
 		
 		"defaultFgColor_override" "ahudWhite"
 		"armedFgColor_override"   "ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 	}
 	"SettingsButtonNew"
 	{
@@ -1756,7 +1762,7 @@
 		
 		"defaultFgColor_override" "ahudWhite"
 		"armedFgColor_override"   "ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 	}
 	"TF2SettingsButtonNew"
 	{
@@ -1787,7 +1793,7 @@
 		
 		"defaultFgColor_override" "ahudWhite"
 		"armedFgColor_override"   "ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 	}
 	"Ahudbutton"
 	{
@@ -1823,7 +1829,7 @@
 		
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override"		"ahudWhite"
-			"depressedFgColor_override"	"75 125 255 255"
+			"depressedFgColor_override" "ahudYellow"
 			
 			"border_default"			"NoBorder"
 			"border_armed"				"ahudMenuBorder"
@@ -1861,7 +1867,7 @@
 		
 		"defaultFgColor_override" "ahudWhite"
 		"armedFgColor_override"   "ahudWhite"
-		"depressedFgColor_override" "75 125 255 255"
+		"depressedFgColor_override" "ahudYellow"
 
 	}
 	"Mark"

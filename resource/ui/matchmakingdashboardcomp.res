@@ -63,7 +63,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RankTooltipPanel"
-		"xpos"			"5"
+		"xpos"			"18"//5
 		"ypos"			"44"
 		"zpos"			"1000"
 		"wide"			"8"

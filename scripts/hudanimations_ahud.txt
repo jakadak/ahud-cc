@@ -3,17 +3,20 @@ event Hitmarker
 	// Team colored hitmarker
 	Animate	Hitmarker	Alpha	"255"	Linear 0.0 0.0		// tcHitmarker start
 	Animate	Hitmarker	Alpha	"0"		Linear 0.0 0.95 	// tcHitmarker end
-	
+
 	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker1 start
 	//# Animate Crosshair1 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker1 end
-	
+
 	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker2 start
 	//# Animate Crosshair2 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker2 end
-	
+
 	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.0		// CrosshairHitmarker3 start
 	//# Animate Crosshair3 Alpha "255" 	Linear 0.0 0.950 	// CrosshairHitmarker3 end
-	
+
 }
+
+//==============================================================================
+
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
