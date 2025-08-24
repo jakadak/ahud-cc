@@ -27,12 +27,10 @@ Have a lovely day, au revoir!
 * **Mac**: ?
 * **Console**: ?
 
-***
-
-### Usual bugs:
-**white screen bug** - in TF2 console, set dxlevel to `90` or higher `95`/`98`. (eg. `mat_dxlevel 90`)
-**symbol doesn't work** - go to `ahud-cc/resource/fonts` manually install all the fonts you find here <3
-**re-enebale jakadak config** - go to `ahud-cc/cfg/ahudcc_customization.cfg` remove `//` on 8th line **//**exec jakadak_config.cfg
+## FAQ: 
+**white screen bug** - in TF2 console, set dxlevel to `90` or higher `95`/`98`. (eg. `mat_dxlevel 90`)  
+**symbol doesn't work** - go to `ahud-cc/resource/fonts` manually install all the fonts you find here <3  
+**re-enebale jakadak config** - go to `ahud-cc/cfg` rename  `_jakadak_config.cfg` to just `//` `jakadak_config.cfg`  
 
 ***
 
