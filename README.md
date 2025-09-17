@@ -19,7 +19,7 @@ Have a lovely day, au revoir!
 [Extra customizations](https://github.com/jakadak/ahud-cc/wiki/Customization)
 [Report bugs here](https://github.com/jakadak/ahud-cc/issues/new/choose)
 * **Windows**: Yes
-  * I recoment using Full screen mode `setting/video/Display mode` -> `Full screen`
+  * I recommend using Full screen mode `setting/video/Display mode` -> `Full screen`
   * 4:3 - 1024×768 and above - ?Probably?
   * 16:9 - 1280x720 and above
   * 16:10 -  1280x800 and above - ?Probably?
