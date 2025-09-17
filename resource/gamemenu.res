@@ -140,7 +140,7 @@
 	{
 		"label"			"My config"
 		"command"		"engine exec jakadak_config.cfg; exec _jakadak_config.cfg"
-		"tooltip"		"Null momevent, Viewmodel, Network"
+		"tooltip"		"Null movement, Viewmodel, Network"
 		"OnlyInGame"	"0"
 	}
 	"Configuration_Practice"
