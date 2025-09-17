@@ -150,9 +150,9 @@
 		"tooltip"		"server setup for practice maps"
 		"OnlyInGame"	"0"
 	}
-	"Configuration_Competive_requires"
+	"Configuration_Competitive_requires"
 	{
-		"label"			"Prevent competive crashes"
+		"label"			"Prevent competitive crashes"
 		"command"		"engine exec competitive_override.cfg"
 		"tooltip"		"while loading competitive"
 		"OnlyInGame"	"0"

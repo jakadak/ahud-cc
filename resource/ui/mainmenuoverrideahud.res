@@ -387,10 +387,10 @@
 						"defaultFgColor_override"	"HudPanelBorder"
 					}
 				}
-				"Configuration_Competive_requires"
+				"Configuration_Competitive_requires"
 				{
 					"ControlName"		"EditablePanel"
-					"fieldName"			"Configuration_Competive_requires"
+					"fieldName"			"Configuration_Competitive_requires"
 					"xpos"				"60"
 					"ypos"				"32"
 					"zpos"				"20"
