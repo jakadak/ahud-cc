@@ -1,4 +1,4 @@
-//Font range explenation: https://en.wikipedia.org/wiki/List_of_Unicode_characters
+//Font range explanation: https://en.wikipedia.org/wiki/List_of_Unicode_characters
 //Font chacker: https://www.alphabet-type.com/tools/charset-checker/
 //created by Jakadak https://github.com/jakadak/TF2-extended-fonts
 
