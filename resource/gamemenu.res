@@ -181,7 +181,7 @@
 	}
 	"ScoreboardBottom6v6"
 	{
-		"label"			"6v6 bototom"
+		"label"			"6v6 bottom"
 		"Command"		"engine scoreboard_minbottom; hud_reloadscheme"
 		"tooltip"		""
 		"OnlyInGame"	"0"
