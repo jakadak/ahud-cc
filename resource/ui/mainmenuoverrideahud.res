@@ -321,10 +321,10 @@
 					"visible"		"1"
 					"fgcolor"		"ahudWhite"
 				}			
-				"Configuration_Practise"
+				"Configuration_Practice"
 				{
 					"ControlName"		"EditablePanel"
-					"fieldName"			"Configuration_Practise"
+					"fieldName"			"Configuration_Practice"
 					"xpos"				"60"
 					"ypos"				"18"
 					"zpos"				"20"

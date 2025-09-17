@@ -143,11 +143,11 @@
 		"tooltip"		"Null momevent, Viewmodel, Network"
 		"OnlyInGame"	"0"
 	}
-	"Configuration_Practise"
+	"Configuration_Practice"
 	{
-		"label"			"Practise MAP"
+		"label"			"Practice MAP"
 		"command"		"engine sv_cheats 1; mp_teams_unbalance_limit 30; mp_disable_respawn_times 1; sv_allow_point_servercommand always; mp_restartgame 1"
-		"tooltip"		"server setup for practise maps"
+		"tooltip"		"server setup for practice maps"
 		"OnlyInGame"	"0"
 	}
 	"Configuration_Competive_requires"
