@@ -602,7 +602,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"HUDMenuLabel"
 				"font"			"aBold12"
-				"labelText"		"HUD PREFERENCIS"
+				"labelText"		"HUD PREFERENCES"
 				"textAlignment"	"center"
 				"ypos"			"119"
 				"wide"			"202"
