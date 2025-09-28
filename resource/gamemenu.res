@@ -140,19 +140,19 @@
 	{
 		"label"			"My config"
 		"command"		"engine exec jakadak_config.cfg; exec _jakadak_config.cfg"
-		"tooltip"		"Null momevent, Viewmodel, Network"
+		"tooltip"		"Null movement, Viewmodel, Network"
 		"OnlyInGame"	"0"
 	}
-	"Configuration_Practise"
+	"Configuration_Practice"
 	{
-		"label"			"Practise MAP"
+		"label"			"Practice MAP"
 		"command"		"engine sv_cheats 1; mp_teams_unbalance_limit 30; mp_disable_respawn_times 1; sv_allow_point_servercommand always; mp_restartgame 1"
-		"tooltip"		"server setup for practise maps"
+		"tooltip"		"server setup for practice maps"
 		"OnlyInGame"	"0"
 	}
-	"Configuration_Competive_requires"
+	"Configuration_Competitive_requires"
 	{
-		"label"			"Prevent competive crashes"
+		"label"			"Prevent competitive crashes"
 		"command"		"engine exec competitive_override.cfg"
 		"tooltip"		"while loading competitive"
 		"OnlyInGame"	"0"
@@ -181,7 +181,7 @@
 	}
 	"ScoreboardBottom6v6"
 	{
-		"label"			"6v6 bototom"
+		"label"			"6v6 bottom"
 		"Command"		"engine scoreboard_minbottom; hud_reloadscheme"
 		"tooltip"		""
 		"OnlyInGame"	"0"

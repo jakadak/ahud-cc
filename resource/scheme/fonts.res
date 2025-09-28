@@ -6,7 +6,7 @@ Scheme
 	Fonts
 	{
 	//OG Ariel -	"range" 	"0x0000 0x00FF"
-	//OG Thaoma - 	"range"		"0x0000 0x017F"
+	//OG Tahoma - 	"range"		"0x0000 0x017F"
 	//OG Verdana -	"range"		"0x0000 0x017F"
 	//OG Courier New - "range"	"0x0000 0x017F"
 

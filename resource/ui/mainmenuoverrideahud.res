@@ -321,10 +321,10 @@
 					"visible"		"1"
 					"fgcolor"		"ahudWhite"
 				}			
-				"Configuration_Practise"
+				"Configuration_Practice"
 				{
 					"ControlName"		"EditablePanel"
-					"fieldName"			"Configuration_Practise"
+					"fieldName"			"Configuration_Practice"
 					"xpos"				"60"
 					"ypos"				"18"
 					"zpos"				"20"
@@ -387,10 +387,10 @@
 						"defaultFgColor_override"	"HudPanelBorder"
 					}
 				}
-				"Configuration_Competive_requires"
+				"Configuration_Competitive_requires"
 				{
 					"ControlName"		"EditablePanel"
-					"fieldName"			"Configuration_Competive_requires"
+					"fieldName"			"Configuration_Competitive_requires"
 					"xpos"				"60"
 					"ypos"				"32"
 					"zpos"				"20"
@@ -602,7 +602,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"HUDMenuLabel"
 				"font"			"aBold12"
-				"labelText"		"HUD PREFERENCIS"
+				"labelText"		"HUD PREFERENCES"
 				"textAlignment"	"center"
 				"ypos"			"119"
 				"wide"			"202"

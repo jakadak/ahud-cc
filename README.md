@@ -8,7 +8,7 @@
 - HUD Customizations Menu (Scoreboard, Ubercharge meter, Streamer mode, Chat,...)
 - Community servers features (Play categories, special buttons)
 - Live improving features (Custom binds in option, Wiki for adding custom [Crosshair](https://github.com/jakadak/ahud-cc/wiki/Crosshair) & [Hitmarker](https://github.com/jakadak/ahud-cc/wiki/Hitmarker).
-- Live improving mods (No-smoke exposions, Consistent kill icons, Closed captions, Extended fonts)
+- Live improving mods (No-smoke explosions, Consistent kill icons, Closed captions, Extended fonts)
 - 16:9, 16:10, and 4:3 support
 
 Have a lovely day, au revoir!
@@ -19,7 +19,7 @@ Have a lovely day, au revoir!
 [Extra customizations](https://github.com/jakadak/ahud-cc/wiki/Customization)
 [Report bugs here](https://github.com/jakadak/ahud-cc/issues/new/choose)
 * **Windows**: Yes
-  * I recoment using Full screen mode `setting/video/Display mode` -> `Full screen`
+  * I recommend using Full screen mode `setting/video/Display mode` -> `Full screen`
   * 4:3 - 1024×768 and above - ?Probably?
   * 16:9 - 1280x720 and above
   * 16:10 -  1280x800 and above - ?Probably?
@@ -30,7 +30,7 @@ Have a lovely day, au revoir!
 ## FAQ: 
 **white screen bug** - in TF2 console, set dxlevel to `90` or higher `95`/`98`. (eg. `mat_dxlevel 90`)  
 **symbol doesn't work** - go to `ahud-cc/resource/fonts` manually install all the fonts you find here <3  
-**re-enebale jakadak config** - go to `ahud-cc/cfg` rename  `_jakadak_config.cfg` to just `//` `jakadak_config.cfg`  
+**re-enable jakadak config** - go to `ahud-cc/cfg` rename  `_jakadak_config.cfg` to just `//` `jakadak_config.cfg`
 
 ***
 
